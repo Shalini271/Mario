@@ -1,0 +1,47 @@
+body{
+background-image: url("background.jpg");
+}
+
+#div1{
+background-color: rgb(6, 6, 136);
+margin-top:0px;
+padding: 10px;
+text-align: left;
+color: white;
+}
+
+#div1 h1{
+    display: inline;
+}
+
+
+#img1{
+    width:100%;
+}
+
+#play,#status{
+    font-size: 22px;
+}
+
+#footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+}
+
+.instructions{
+   width:45%; 
+}
+
+#inst{
+float: right;
+}
+
+video{
+background-image: url("game_console.png");
+background-size: cover;
+background-position: center;
+padding: 25px;
+margin-bottom: 40px;
+}
